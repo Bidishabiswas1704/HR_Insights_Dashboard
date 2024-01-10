@@ -18,4 +18,5 @@ Employee attrition, at a rate of 16%, poses challenges to organizational stabili
 - Step 5 : A new column was introduced named "Attrition count" using conditional column option, where we took attrition column and gave 1 value for 'yes' and 0 to 'no'.
 
 Snap of new calculated column ,
+
 ![Snap](https://github.com/Bidishabiswas1704/HR_Insights_Dashboard/assets/140384850/ff85ebf8-0c05-43a8-8d65-93722da0c9d0)
