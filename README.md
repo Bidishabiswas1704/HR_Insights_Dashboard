@@ -20,3 +20,9 @@ Employee attrition, at a rate of 16%, poses challenges to organizational stabili
 Snap of new calculated column ,
 
 ![Snap](https://github.com/Bidishabiswas1704/HR_Insights_Dashboard/assets/140384850/ff85ebf8-0c05-43a8-8d65-93722da0c9d0)
+- Step 6 : In the report view, under the view tab, theme was selected.
+- Step 7 : Since the data contains various departments, Visual filters (Slicers) were added for three departments named "Human Resource", "Research and Development", & "Sales".
+
+Snap of Visual filters (Slicers),
+
+![image](https://github.com/Bidishabiswas1704/HR_Insights_Dashboard/assets/140384850/c2ac6f4b-f277-46c0-85e0-88600bd972eb)
