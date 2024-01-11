@@ -41,8 +41,8 @@ Following DAX expression was written for the same,
        Total no. of employees  = COUNT(HR_Analytics[EmpID])
 - Step 11 : Second card visual was used to represents No. of employees leaving the company.
 
-![image](https://github.com/Bidishabiswas1704/HR_Insights_Dashboard/assets/140384850/372ab522-9eba-4091-a4bf-e17c6bc4f966)
+![image](https://github.com/Bidishabiswas1704/HR_Insights_Dashboard/assets/140384850/196cc87e-115d-4b5d-8589-8ded941f489e)
 
 Following DAX expression was written for the same,
         
-       No. of employees leaving  = DIVIDE(SUM(HR_Analytics[AttritionCount]), SUM(HR_Analytics[EmployeeCount]), 0)
+       No. of employees leaving  = SUM(HR_Analytics[AttritionCount])
