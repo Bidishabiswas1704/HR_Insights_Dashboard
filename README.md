@@ -84,3 +84,11 @@ Following DAX expression was written for the same,
 ![Publish_Message](https://user-images.githubusercontent.com/102996550/174094520-3a845196-97e6-4d44-8760-34a64abc3e77.jpg)
 
  # Report Snapshot (Power BI DESKTOP)
+ 
+![image](https://github.com/Bidishabiswas1704/HR_Insights_Dashboard/assets/140384850/63a7ee85-b7d3-4bf0-b058-6547fbd651e3)
+
+# Insights
+
+A single page report was created on Power BI Desktop & it was then published to Power BI Service.
+
+Following inferences can be drawn from the dashboard;
