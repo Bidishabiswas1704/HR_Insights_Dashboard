@@ -92,3 +92,14 @@ Following DAX expression was written for the same,
 A single page report was created on Power BI Desktop & it was then published to Power BI Service.
 
 Following inferences can be drawn from the dashboard;
+### [1] Total Number of Employees in the company= 1413
+
+   Number of employees leaving = 229
+   
+   Employees leaving rate = 16.21 %
+
+   Number of employees leaving (Male) = 145
+
+   Number of employees leaving (Female) = 44
+
+           thus, higher number of employees leaving the company are male.
