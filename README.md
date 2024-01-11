@@ -55,10 +55,17 @@ Following DAX expression was written for the same,
                
       Employees leaving rate = DIVIDE(SUM(HR_Analytics[AttritionCount]), SUM(HR_Analytics[EmployeeCount]), 0)
       
-- Step 11 : Second card visual was used to represents No. of employees leaving the company.
+- Step 13 : Fourth card visual was used to represents Average age of employees leaving the company.
 
-![image](https://github.com/Bidishabiswas1704/HR_Insights_Dashboard/assets/140384850/196cc87e-115d-4b5d-8589-8ded941f489e)
+![image](https://github.com/Bidishabiswas1704/HR_Insights_Dashboard/assets/140384850/e34da94d-9f9f-4ab6-984b-a8c441f9b2aa)
 
 Following DAX expression was written for the same,
         
-       No. of employees leaving  = SUM(HR_Analytics[AttritionCount])
+       Employees average age  = AVERAGE(HR_Analytics[AgeGroup])
+- Step 13 : Fourth card visual was used to represents Average age of employees leaving the company.
+
+![image](https://github.com/Bidishabiswas1704/HR_Insights_Dashboard/assets/140384850/e34da94d-9f9f-4ab6-984b-a8c441f9b2aa)
+
+Following DAX expression was written for the same,
+        
+       Employees average age  = AVERAGE(HR_Analytics[AgeGroup])
