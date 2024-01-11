@@ -62,10 +62,17 @@ Following DAX expression was written for the same,
 Following DAX expression was written for the same,
         
        Employees average age  = AVERAGE(HR_Analytics[AgeGroup])
-- Step 13 : Fourth card visual was used to represents Average age of employees leaving the company.
+- Step 14 : Fifth card visual was used to represents Average salary of employees leaving the company.
 
-![image](https://github.com/Bidishabiswas1704/HR_Insights_Dashboard/assets/140384850/e34da94d-9f9f-4ab6-984b-a8c441f9b2aa)
+![image](https://github.com/Bidishabiswas1704/HR_Insights_Dashboard/assets/140384850/84ccb347-e00b-489c-bff8-ca5e6e160844)
 
 Following DAX expression was written for the same,
         
-       Employees average age  = AVERAGE(HR_Analytics[AgeGroup])
+       Employees average salary  = AVERAGE(HR_Analytics[MonthlyIncome])
+- Step 14 : Fifth card visual was used to represents Average salary of employees leaving the company.
+
+![image](https://github.com/Bidishabiswas1704/HR_Insights_Dashboard/assets/140384850/84ccb347-e00b-489c-bff8-ca5e6e160844)
+
+Following DAX expression was written for the same,
+        
+       Employees average salary  = AVERAGE(HR_Analytics[MonthlyIncome])
