@@ -35,6 +35,7 @@ Snap of Visual filters (Slicers),
 - Step 10 : A card visual was used to represent the Total no. of employees.
 
 ![image](https://github.com/Bidishabiswas1704/HR_Insights_Dashboard/assets/140384850/372ab522-9eba-4091-a4bf-e17c6bc4f966)
+
 Following DAX expression was written for the same,
         
        Total no. of employees  = COUNT(HR_Analytics[EmpID])
