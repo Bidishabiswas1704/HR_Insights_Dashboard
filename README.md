@@ -107,30 +107,44 @@ Following inferences can be drawn from the dashboard;
 ### [2] Average Salary of the Employees leaving the company = 6.5 K
 
 ### [3] Average Years by the Employees before leaving the company = 7 yrs
+  
+  These ratings will change if different visual filters will be applied.  
 
 ### [4] Some other insights
  
- ### Class
+ ### Attration by Educational Field
  
- 1.1) 47.87 % customers travelled by Business class.
+ 1.1) 41% of departing employees hold a background in Life Sciences.
  
- 1.2) 44.89 % customers travelled by Economy class.
+ 1.2) 311% of departing employees hold a background in Medical fields.
  
- 1.3) 7.25 % customers travelled by Economy plus class.
+ 1.3) 11% of departing employees hold a background in Marketing.
  
-         thus, maximum customers travelled by Business class.
+         thus, maximum employees leaving the company belongs to Life science background..
  
- ### Age Group
+ ### Satisfaction ratings based on Job Roles
  
- 2.1)  21.69 % customers belong to '0-25' age group.
+ 2.1)  50/229 employees leaving the company have expressed the lowest satisfaction rating for their respective job roles.
  
- 2.2)  52.44 % customers belong to '25-50' age group.
+ 2.2)  62/229 employees leaving the company have expressed the highest satisfaction rating for their respective job roles.
  
  2.3)  25.57 % customers belong to '50-75' age group.
  
  2.4)  0.31 % customers belong to '75-100' age group.
  
          thus, maximum customers belong to '25-50' age group.
+
+### Attration by Educational Field
+ 
+2.1)  21.69 % customers belong to '0-25' age group.
+ 
+2.2)  52.44 % customers belong to '25-50' age group.
+ 
+2.3)  25.57 % customers belong to '50-75' age group.
+ 
+2.4)  0.31 % customers belong to '75-100' age group.
+ 
+        thus, maximum customers belong to '25-50' age group.
          
 ### Customer Type
 
