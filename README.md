@@ -76,3 +76,11 @@ Following DAX expression was written for the same,
 Following DAX expression was written for the same,
         
        Average years served at company  = AVERAGE(HR_Analytics[YearsAtCompany])
+
+- Step 16 : The rest of the report contains a donut chart, two bar charts, two stacked bar charts, one table and an area chart to clearify the problem statement using various visulazation as mentioned.
+ - Step 17 : The report was then published to Power BI Service.
+ 
+ 
+![Publish_Message](https://user-images.githubusercontent.com/102996550/174094520-3a845196-97e6-4d44-8760-34a64abc3e77.jpg)
+
+ # Report Snapshot (Power BI DESKTOP)
