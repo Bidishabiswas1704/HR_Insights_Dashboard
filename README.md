@@ -69,10 +69,10 @@ Following DAX expression was written for the same,
 Following DAX expression was written for the same,
         
        Employees average salary  = AVERAGE(HR_Analytics[MonthlyIncome])
-- Step 14 : Fifth card visual was used to represents Average salary of employees leaving the company.
+- Step 15 : Sixth card visual was used to represents Average years served by the employees before leaving the company.
 
-![image](https://github.com/Bidishabiswas1704/HR_Insights_Dashboard/assets/140384850/84ccb347-e00b-489c-bff8-ca5e6e160844)
+![image](https://github.com/Bidishabiswas1704/HR_Insights_Dashboard/assets/140384850/d5b8fff2-ebae-460c-81ef-2e7549032686)
 
 Following DAX expression was written for the same,
         
-       Employees average salary  = AVERAGE(HR_Analytics[MonthlyIncome])
+       Average years served at company  = AVERAGE(HR_Analytics[YearsAtCompany])
