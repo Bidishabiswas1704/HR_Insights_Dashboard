@@ -46,3 +46,19 @@ Following DAX expression was written for the same,
 Following DAX expression was written for the same,
         
        No. of employees leaving  = SUM(HR_Analytics[AttritionCount])
+       
+- Step 12 : Third card visual was used to represents Employees leaving rate.
+
+![image](https://github.com/Bidishabiswas1704/HR_Insights_Dashboard/assets/140384850/bc385c15-d7a1-4317-a779-c73b2d18addb)
+ 
+Following DAX expression was written for the same,
+               
+      Employees leaving rate = DIVIDE(SUM(HR_Analytics[AttritionCount]), SUM(HR_Analytics[EmployeeCount]), 0)
+      
+- Step 11 : Second card visual was used to represents No. of employees leaving the company.
+
+![image](https://github.com/Bidishabiswas1704/HR_Insights_Dashboard/assets/140384850/196cc87e-115d-4b5d-8589-8ded941f489e)
+
+Following DAX expression was written for the same,
+        
+       No. of employees leaving  = SUM(HR_Analytics[AttritionCount])
