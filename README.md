@@ -85,7 +85,7 @@ Following DAX expression was written for the same,
 
  # Report Snapshot (Power BI DESKTOP)
  
-![image](https://github.com/Bidishabiswas1704/HR_Insights_Dashboard/assets/140384850/63a7ee85-b7d3-4bf0-b058-6547fbd651e3)
+![image](https://github.com/Bidishabiswas1704/HR_Insights_Dashboard/assets/140384850/24d8f16b-3952-4ee7-9fe7-d8c80669eda3)
 
 # Insights
 
@@ -128,32 +128,27 @@ Following inferences can be drawn from the dashboard;
  
  2.2)  62/229 employees leaving the company have expressed the highest satisfaction rating for their respective job roles.
  
- 2.3)  25.57 % customers belong to '50-75' age group.
- 
- 2.4)  0.31 % customers belong to '75-100' age group.
- 
-         thus, maximum customers belong to '25-50' age group.
+         thus, maximum employees leaving the company are satified with their respective job roles.
 
-### Attration by Educational Field
+### Attration by Age
  
-2.1)  21.69 % customers belong to '0-25' age group.
+3.1)  111 of employees leaving the company belong to 26-35' age group.
  
-2.2)  52.44 % customers belong to '25-50' age group.
+3.2)  43 of employees leaving the company belong to '18-25' age group.
  
-2.3)  25.57 % customers belong to '50-75' age group.
+3.3)  41 of employees leaving the company belong to '36-45' age group.
  
-2.4)  0.31 % customers belong to '75-100' age group.
+3.4)  26 of employees leaving the company belong to '46-55' age group.
  
-        thus, maximum customers belong to '25-50' age group.
+        thus, most employees leaving the company are young, aged 18-35, seeking varied job experiences and experiments.
          
-### Customer Type
+### Attration by Salary of Employees
 
-3.1) 18.31 % customers have customer type 'First time'.
+4.1) 158 of employees leaving the company have salary range upto 5,000 rs.
 
-3.2) 81.69 % customers have customer type 'returning'.
+4.2) 48 of employees leaving the company have salary range between 5k-10k.
        
-       thus, more customers have customer type 'returning'.
-
+       thus, more employees leaving the company have salary less than average salary of the company (6.5k). Thus less salary is the major cause behind employees departing from the company.
 ### Type of travel
 
 4.1) 69.06 % customers have travel type 'Business'.
