@@ -149,11 +149,24 @@ Following inferences can be drawn from the dashboard;
 4.2) 48 of employees leaving the company have salary range between 5k-10k.
        
        thus, more employees leaving the company have salary less than average salary of the company (6.5k). Thus less salary is the major cause behind employees departing from the company.
+       
 ### No. of years served by Employees before leaving the company
 
-4.1) 69.06 % customers have travel type 'Business'.
+5.1) 57 employees depart the company upon completing their first year of tenure.
 
-4.2) 30.94 % customers have travel type 'Personal'.
+5.2) 20 employees depart the company upon completing their five years of tenure.
 
-        thus, more customers have travel type 'Business'.
+5.3) 16 employees depart the company upon before completing their first year.
 
+
+        thus, more after 1st year and 5th year of tenure in the company most of the empoyees depart.
+
+### Attration by Job roles
+
+6.1) Position of "lab technician" sees the highest employee turnover, with 60 individuals departing.
+
+6.2) Position of "Sales Executive" sees the second highest employee turnover, with 55 individuals departing.
+
+6.3) Position of "Research Scientist" sees the third highest employee turnover, with 44 individuals departing.
+
+        thus, job role with the highest employee turnover, accounting for 60 departures, is the Lab Technician position.
