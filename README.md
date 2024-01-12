@@ -149,7 +149,7 @@ Following inferences can be drawn from the dashboard;
 4.2) 48 of employees leaving the company have salary range between 5k-10k.
        
        thus, more employees leaving the company have salary less than average salary of the company (6.5k). Thus less salary is the major cause behind employees departing from the company.
-### Type of travel
+### No. of years served by Employees before leaving the company
 
 4.1) 69.06 % customers have travel type 'Business'.
 
