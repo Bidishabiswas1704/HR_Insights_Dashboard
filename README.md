@@ -81,7 +81,8 @@ Following DAX expression was written for the same,
  - Step 17 : The report was then published to Power BI Service.
  
  
-![Publish_Message](https://user-images.githubusercontent.com/102996550/174094520-3a845196-97e6-4d44-8760-34a64abc3e77.jpg)
+![image](https://github.com/Bidishabiswas1704/HR_Insights_Dashboard/assets/140384850/c4fba114-fe06-47f4-b579-ededa2b23ddd)
+
 
  # Report Snapshot (Power BI DESKTOP)
  
