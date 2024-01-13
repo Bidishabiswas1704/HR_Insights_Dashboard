@@ -2,14 +2,14 @@
 
 ### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiMjJhOTZhMzItYTViMS00M2ZlLWE4N2YtM2MwZGExZDE2MGNkIiwidCI6ImUxNGU3M2ViLTUyNTEtNDM4OC04ZDY3LThmOWYyZTJkNWE0NiIsImMiOjEwfQ%3D%3D
 
-## Problem Statement
+## 🚀 Problem Statement
 
 In modern organizations, employee attrition is a critical metric that directly impacts the stability and efficiency of the workforce. The HR Insight Dashboard aims to address the challenge of understanding and mitigating employee attrition by examining various factors contributing to employees leaving the company. The primary goal is to uncover insights into the reasons behind attrition and identify patterns based on department, age group, gender, and salary range.
 
 Employee attrition, at a rate of 16%, poses challenges to organizational stability, team dynamics, and productivity. The HR Insight Dashboard offers nuanced insights into contributing factors, empowering HR teams to proactively implement targeted strategies for improved employee retention and a more conducive work environment.
 
 
-### Steps followed 
+### 🔍 Steps Followed
 
 - Step 1 : Load data into Power BI Desktop, dataset is a csv file.
 - Step 2 : Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
@@ -83,12 +83,14 @@ Following DAX expression was written for the same,
  
 ![image](https://github.com/Bidishabiswas1704/HR_Insights_Dashboard/assets/140384850/c4fba114-fe06-47f4-b579-ededa2b23ddd)
 
+ # 📄 Usage
+Explore the Power BI HR Dashboard to gain valuable insights into attrition patterns, demographics, and key HR metrics. The user-friendly interface enables easy navigation and understanding of workforce dynamics.
 
  # Report Snapshot (Power BI DESKTOP)
  
 ![image](https://github.com/Bidishabiswas1704/HR_Insights_Dashboard/assets/140384850/24d8f16b-3952-4ee7-9fe7-d8c80669eda3)
 
-# Insights
+# 📈 Insights
 
 A single page report was created on Power BI Desktop & it was then published to Power BI Service.
 
