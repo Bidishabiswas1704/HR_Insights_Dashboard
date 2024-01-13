@@ -1,4 +1,4 @@
-# HR Insights-Dashboard
+📊 HR Insights-Dashboard
 
 ### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiMjJhOTZhMzItYTViMS00M2ZlLWE4N2YtM2MwZGExZDE2MGNkIiwidCI6ImUxNGU3M2ViLTUyNTEtNDM4OC04ZDY3LThmOWYyZTJkNWE0NiIsImMiOjEwfQ%3D%3D
 
