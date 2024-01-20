@@ -143,7 +143,8 @@ Following inferences can be drawn from the dashboard;
  
 3.4)  26 of employees leaving the company belong to '46-55' age group.
  
-        thus, most employees leaving the company are young, aged 18-35, seeking varied job experiences and experiments.
+**Insight:**
+Thus, most employees leaving the company are young, aged 18-35, seeking varied job experiences and experiments.
          
 ### Attration by Salary of Employees
 
@@ -151,7 +152,8 @@ Following inferences can be drawn from the dashboard;
 
 4.2) 48 of employees leaving the company have salary range between 5k-10k.
        
-       thus, more employees leaving the company have salary less than average salary of the company (6.5k). Thus less salary is the major cause behind employees departing from the company.
+**Insight:**
+thus, more employees leaving the company have salary less than average salary of the company (6.5k). Thus less salary is the major cause behind employees departing from the company.
        
 ### No. of years served by Employees before leaving the company
 
@@ -161,8 +163,8 @@ Following inferences can be drawn from the dashboard;
 
 5.3) 16 employees depart the company upon before completing their first year.
 
-
-        thus, more after 1st year and 5th year of tenure in the company most of the empoyees depart.
+**Insight:**
+thus, more after 1st year and 5th year of tenure in the company most of the empoyees depart.
 
 ### Attration by Job roles
 
@@ -172,4 +174,5 @@ Following inferences can be drawn from the dashboard;
 
 6.3) Position of "Research Scientist" sees the third highest employee turnover, with 44 individuals departing.
 
-        thus, job role with the highest employee turnover, accounting for 60 departures, is the Lab Technician position.
+**Insight:**
+thus, job role with the highest employee turnover, accounting for 60 departures, is the Lab Technician position.
