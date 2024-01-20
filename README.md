@@ -116,7 +116,7 @@ thus, higher number of employees leaving the company are male.
 
 ### [4] Some other insights
  
- ### Attration by Educational Field
+ ### [a] Attration by Educational Field
  
  1.1) 41% of departing employees hold a background in Life Sciences.
  
@@ -127,7 +127,7 @@ thus, higher number of employees leaving the company are male.
 **Insight:**
 thus, maximum employees leaving the company belongs to Life science background..
  
- ### Satisfaction ratings based on Job Roles
+ ### [b] Satisfaction ratings based on Job Roles
  
  2.1)  50/229 employees leaving the company have expressed the lowest satisfaction rating for their respective job roles.
  
@@ -136,7 +136,7 @@ thus, maximum employees leaving the company belongs to Life science background..
 **Insight:**
 thus, maximum employees leaving the company are satified with their respective job roles.
 
-### Attration by Age
+### [c] Attration by Age
  
 3.1)  111 of employees leaving the company belong to 26-35' age group.
  
@@ -149,7 +149,7 @@ thus, maximum employees leaving the company are satified with their respective j
 **Insight:**
 Thus, most employees leaving the company are young, aged 18-35, seeking varied job experiences and experiments.
          
-### Attration by Salary of Employees
+### [d] Attration by Salary of Employees
 
 4.1) 158 of employees leaving the company have salary range upto 5,000 rs.
 
@@ -158,7 +158,7 @@ Thus, most employees leaving the company are young, aged 18-35, seeking varied j
 **Insight:**
 thus, more employees leaving the company have salary less than average salary of the company (6.5k). Thus less salary is the major cause behind employees departing from the company.
        
-### No. of years served by Employees before leaving the company
+### [e] No. of years served by Employees before leaving the company
 
 5.1) 57 employees depart the company upon completing their first year of tenure.
 
@@ -169,7 +169,7 @@ thus, more employees leaving the company have salary less than average salary of
 **Insight:**
 thus, more after 1st year and 5th year of tenure in the company most of the empoyees depart.
 
-### Attration by Job roles
+### [f] Attration by Job roles
 
 6.1) Position of "lab technician" sees the highest employee turnover, with 60 individuals departing.
 
