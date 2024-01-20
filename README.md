@@ -105,7 +105,8 @@ Following inferences can be drawn from the dashboard;
 
    Number of employees leaving (Female) = 44
 
-           thus, higher number of employees leaving the company are male.
+**Insight:**
+thus, higher number of employees leaving the company are male.
            
 ### [2] Average Salary of the Employees leaving the company = 6.5 K
 
@@ -123,7 +124,8 @@ Following inferences can be drawn from the dashboard;
  
  1.3) 11% of departing employees hold a background in Marketing.
  
-         thus, maximum employees leaving the company belongs to Life science background..
+**Insight:**
+thus, maximum employees leaving the company belongs to Life science background..
  
  ### Satisfaction ratings based on Job Roles
  
@@ -131,7 +133,8 @@ Following inferences can be drawn from the dashboard;
  
  2.2)  62/229 employees leaving the company have expressed the highest satisfaction rating for their respective job roles.
  
-         thus, maximum employees leaving the company are satified with their respective job roles.
+**Insight:**
+thus, maximum employees leaving the company are satified with their respective job roles.
 
 ### Attration by Age
  
