@@ -106,9 +106,12 @@ Following inferences can be drawn from the dashboard;
    Number of employees leaving (Female) = 44
 
 **Insight:**
-thus, higher number of employees leaving the company are male.
+The higher number of departing employees is male, comprising 145 compared to 44 females, indicating a notable gender disparity in attrition rates.
            
 ### [2] Average Salary of the Employees leaving the company = 6.5 K
+
+**Insight:**
+Employees leaving the company have an average salary of 6.5K and an average tenure of 7 years, reflecting the experience level and compensation expectations of departing employees.
 
 ### [3] Average Years by the Employees before leaving the company = 7 yrs
   
@@ -125,7 +128,7 @@ thus, higher number of employees leaving the company are male.
  1.3) 11% of departing employees hold a background in Marketing.
  
 **Insight:**
-thus, maximum employees leaving the company belongs to Life science background..
+The majority of departing employees (41%) hold backgrounds in Life Sciences, followed by Medical fields (31%) and Marketing (11%), suggesting a correlation between educational field and attrition rates.
  
  ### [b] Satisfaction ratings based on Job Roles
  
@@ -134,7 +137,7 @@ thus, maximum employees leaving the company belongs to Life science background..
  2.2)  62/229 employees leaving the company have expressed the highest satisfaction rating for their respective job roles.
  
 **Insight:**
-thus, maximum employees leaving the company are satified with their respective job roles.
+A significant portion of departing employees (50 out of 229) expressed the lowest satisfaction rating for their respective job roles, while 62 employees gave the highest satisfaction rating. This highlights dissatisfaction as a contributing factor to attrition.
 
 ### [c] Attration by Age
  
@@ -147,7 +150,7 @@ thus, maximum employees leaving the company are satified with their respective j
 3.4)  26 of employees leaving the company belong to '46-55' age group.
  
 **Insight:**
-Thus, most employees leaving the company are young, aged 18-35, seeking varied job experiences and experiments.
+The most common age group among departing employees is 26-35, indicating that younger employees, aged 18-35, are more likely to seek varied job experiences and opportunities elsewhere.
          
 ### [d] Attration by Salary of Employees
 
@@ -156,7 +159,7 @@ Thus, most employees leaving the company are young, aged 18-35, seeking varied j
 4.2) 48 of employees leaving the company have salary range between 5k-10k.
        
 **Insight:**
-thus, more employees leaving the company have salary less than average salary of the company (6.5k). Thus less salary is the major cause behind employees departing from the company.
+A majority of departing employees have a salary range below 5,000 rs, with 158 employees falling within this bracket, suggesting that lower salaries are a significant driver of attrition.
        
 ### [e] No. of years served by Employees before leaving the company
 
@@ -167,7 +170,7 @@ thus, more employees leaving the company have salary less than average salary of
 5.3) 16 employees depart the company upon before completing their first year.
 
 **Insight:**
-thus, more after 1st year and 5th year of tenure in the company most of the empoyees depart.
+A notable trend is observed in departure patterns based on tenure, with 57 employees leaving after their first year, while 20 employees depart after completing five years of tenure. This suggests a critical period of adjustment within the first year and potential career stagnation after five years.
 
 ### [f] Attration by Job roles
 
@@ -178,4 +181,4 @@ thus, more after 1st year and 5th year of tenure in the company most of the empo
 6.3) Position of "Research Scientist" sees the third highest employee turnover, with 44 individuals departing.
 
 **Insight:**
-thus, job role with the highest employee turnover, accounting for 60 departures, is the Lab Technician position.
+The job role with the highest employee turnover is the Lab Technician position, with 60 departures, followed by Sales Executive (55 departures) and Research Scientist (44 departures), highlighting specific roles prone to attrition challenges.
