@@ -121,64 +121,64 @@ Employees leaving the company have an average salary of 6.5K and an average tenu
  
  ### [a] Attration by Educational Field
  
- 1.1) 41% of departing employees hold a background in Life Sciences.
+ - 1.1) 41% of departing employees hold a background in Life Sciences.
  
- 1.2) 311% of departing employees hold a background in Medical fields.
+ - 1.2) 311% of departing employees hold a background in Medical fields.
  
- 1.3) 11% of departing employees hold a background in Marketing.
+ - 1.3) 11% of departing employees hold a background in Marketing.
  
 **Insight:**
 The majority of departing employees (41%) hold backgrounds in Life Sciences, followed by Medical fields (31%) and Marketing (11%), suggesting a correlation between educational field and attrition rates.
  
  ### [b] Satisfaction ratings based on Job Roles
  
- 2.1)  50/229 employees leaving the company have expressed the lowest satisfaction rating for their respective job roles.
+ - 2.1)  50/229 employees leaving the company have expressed the lowest satisfaction rating for their respective job roles.
  
- 2.2)  62/229 employees leaving the company have expressed the highest satisfaction rating for their respective job roles.
+ - 2.2)  62/229 employees leaving the company have expressed the highest satisfaction rating for their respective job roles.
  
 **Insight:**
-A significant portion of departing employees (50 out of 229) expressed the lowest satisfaction rating for their respective job roles, while 62 employees gave the highest satisfaction rating. This highlights dissatisfaction as a contributing factor to attrition.
+A significant portion of departing employees (50 out of 229) expressed the lowest satisfaction rating for their respective job roles, while 62 employees gave the highest satisfaction rating. This highlights dissatisfaction as a contributing factor to attrition. Understanding the factors contributing to job dissatisfaction can inform targeted retention strategies.
 
 ### [c] Attration by Age
  
-3.1)  111 of employees leaving the company belong to 26-35' age group.
+- 3.1)  111 of employees leaving the company belong to 26-35' age group.
  
-3.2)  43 of employees leaving the company belong to '18-25' age group.
+- 3.2)  43 of employees leaving the company belong to '18-25' age group.
  
-3.3)  41 of employees leaving the company belong to '36-45' age group.
+- 3.3)  41 of employees leaving the company belong to '36-45' age group.
  
-3.4)  26 of employees leaving the company belong to '46-55' age group.
+- 3.4)  26 of employees leaving the company belong to '46-55' age group.
  
 **Insight:**
-The most common age group among departing employees is 26-35, indicating that younger employees, aged 18-35, are more likely to seek varied job experiences and opportunities elsewhere.
+The most common age group among departing employees is 26-35, indicating that younger employees, aged 18-35, are more likely to seek varied job experiences and opportunities elsewhere. This demographic shift necessitates tailored approaches to talent management and career development.
          
 ### [d] Attration by Salary of Employees
 
-4.1) 158 of employees leaving the company have salary range upto 5,000 rs.
+- 4.1) 158 of employees leaving the company have salary range upto 5,000 rs.
 
-4.2) 48 of employees leaving the company have salary range between 5k-10k.
+- 4.2) 48 of employees leaving the company have salary range between 5k-10k.
        
 **Insight:**
-A majority of departing employees have a salary range below 5,000 rs, with 158 employees falling within this bracket, suggesting that lower salaries are a significant driver of attrition.
+A majority of departing employees have a salary range below 5,000 rs, with 158 employees falling within this bracket, suggesting that lower salaries are a significant driver of attrition. Addressing salary disparities and offering competitive compensation packages could mitigate turnover rates.
        
 ### [e] No. of years served by Employees before leaving the company
 
-5.1) 57 employees depart the company upon completing their first year of tenure.
+- 5.1) 57 employees depart the company upon completing their first year of tenure.
 
-5.2) 20 employees depart the company upon completing their five years of tenure.
+- 5.2) 20 employees depart the company upon completing their five years of tenure.
 
-5.3) 16 employees depart the company upon before completing their first year.
+- 5.3) 16 employees depart the company upon before completing their first year.
 
 **Insight:**
 A notable trend is observed in departure patterns based on tenure, with 57 employees leaving after their first year, while 20 employees depart after completing five years of tenure. This suggests a critical period of adjustment within the first year and potential career stagnation after five years.
 
 ### [f] Attration by Job roles
 
-6.1) Position of "lab technician" sees the highest employee turnover, with 60 individuals departing.
+- 6.1) Position of "lab technician" sees the highest employee turnover, with 60 individuals departing.
 
-6.2) Position of "Sales Executive" sees the second highest employee turnover, with 55 individuals departing.
+- 6.2) Position of "Sales Executive" sees the second highest employee turnover, with 55 individuals departing.
 
-6.3) Position of "Research Scientist" sees the third highest employee turnover, with 44 individuals departing.
+- 6.3) Position of "Research Scientist" sees the third highest employee turnover, with 44 individuals departing.
 
 **Insight:**
-The job role with the highest employee turnover is the Lab Technician position, with 60 departures, followed by Sales Executive (55 departures) and Research Scientist (44 departures), highlighting specific roles prone to attrition challenges.
+The job role with the highest employee turnover is the Lab Technician position, with 60 departures, followed by Sales Executive (55 departures) and Research Scientist (44 departures), highlighting specific roles prone to attrition challenges. Understanding the unique challenges and opportunities associated with each role can inform targeted retention efforts and succession planning.
